@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecordLast</string>
+
+
+    <string name="dummy_content">LAST</string>
+    <string name="stoprecord">Stop</string>
+    <string name="startrecord">Start</string>
+    <string name="direct">Your Record</string>
+</resources>
